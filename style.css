@@ -1,0 +1,12 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+
+}
+header,footer{
+	width: 100%;
+	background-color: red;
+	min-height: 50px;
+}
+body{background:red;}
